@@ -57,7 +57,7 @@ At **NET Engineering**, I act as the **Technical Lead** for:
 ### 📫 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/isikmuhamm" target="_blank">
+  <a href="https://linkedin.com/in/muisik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:isikmuhamm@gmail.com">
