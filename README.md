@@ -1,39 +1,69 @@
-# Senior Industrial Solutions Architect
+# Hi there, I'm Muhammet Işık 👋
 
-**Strategic Lead: Operational Technology & Information Technology Convergence**
-
-Specialized in architecting mission-critical industrial systems at the intersection of OT and IT. Driving enterprise-scale digital transformation initiatives for critical infrastructure with unwavering focus on functional safety, operational resilience, and regulatory compliance.
-
----
-
-## Technology Stack
-
-**Safety Systems & Standards**
-- HIMA Safety Controllers
-- IEC 61508 (Functional Safety)
-- IEC 62443 (Industrial Security)
-- EN 50128 (Railway Applications)
-
-**Industrial Protocols & Platforms**
-- OPC UA
-- MQTT
-- Python
-- Docker
-- Linux
+### **Industrial Solutions Architect | OT/IT Integration Specialist**
+**Bridging the gap between Operational Technology (OT), Functional Safety, and Enterprise IT.**
 
 ---
 
-## Professional Focus
+### 🚀 Executive Summary
 
-**Railway Safety Systems**  
-Expert implementation of EN 50128 safety-critical software standards for rail infrastructure. Architecting fail-safe control systems with SIL 4 certification requirements.
+With a hybrid background spanning **field operations, entrepreneurship, and software development**, I don't just solve complex industrial problems; I transform them into profitable, sustainable business models.
 
-**Large-Scale Asset Management**  
-Operational oversight of 25,000+ industrial assets. Strategic planning and execution of predictive maintenance programs, ensuring maximum uptime across distributed infrastructure.
-
-**Operational Resilience**  
-Design and deployment of cyber-physical systems architected for continuity in critical infrastructure environments. Integration of IEC 62443 security frameworks with functional safety requirements.
+My engineering philosophy isn't just about connecting devices; it's about establishing the balance between **Safety (SIL)**, **Security (IEC 62443)**, and **Availability**.
 
 ---
 
-**Core Competency:** Bridging the operational technology and information technology divide to deliver robust, compliant, and scalable industrial solutions.
+### 🛠️ The Architectural Stack
+
+I design systems where **Safety** is mandatory, but **Data** is the strategic asset.
+
+| Domain | Technologies & Standards |
+| :--- | :--- |
+| **Functional Safety** | `HIMA Safety Controllers` `IEC 61508` `EN 5012x (Railway)` `SIL 3/4 Design` |
+| **Industrial IoT** | `Python` `Node-RED` `MQTT` `OPC UA` `Edge Computing` `Docker` |
+| **OT Security** | `IEC 62443` `Network Segmentation` `Secure Remote Access` |
+| **Data & Platforms** | `PostgreSQL` `Linux Systems` `TimescaleDB` `SCADA Integration` |
+
+---
+
+### 💡 Engineering Approach
+
+* **🚀 Data to Value:** Moving beyond basic PLC programming; I leverage **Python and IIoT architectures** to extract strategic data from "Black Box" safety systems for Predictive Maintenance.
+* **🛡️ Operational Risk Management:** Designing not just "functional" but **"Resilient"** systems that protect human life and critical infrastructure (HIMA / SIL 3).
+* **💼 Commercial Acumen:** Leveraging 10 years of entrepreneurial P&L experience to calculate the **ROI of technical investments** and translate engineering value into business language for C-Level stakeholders.
+
+---
+
+### 📊 Proven Track Record
+
+> *"An architect is defined by their built legacy."*
+
+* ✅ **Scale:** Managed end-to-end service operations for **25,000+ devices** with **96% CSAT**.
+* ✅ **Economy:** Built a circular economy business model generating **~100M TL** economic value.
+* ✅ **Research:** Published safety-critical systems research at **TOK 2025 Conference** (ITU Rail Systems Lab).
+* ✅ **Legacy:** Trained **100+ technicians**, with 15+ going on to found their own businesses.
+
+---
+
+### 🔭 Current Focus
+
+At **NET Engineering**, I act as the **Technical Lead** for:
+* **HIMA Functional Safety:** Railway signaling and process safety.
+* **Simplinx IIoT:** Edge gateway solutions and cloud integration.
+* **Emerson:** Predictive maintenance and asset health monitoring.
+
+---
+
+### 📫 Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/isikmuhamm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:isikmuhamm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.muisik.com">
+    <img src="https://img.shields.io/badge/Portfolio-www.muisik.com-black?style=for-the-badge" alt="Website">
+  </a>
+</p>
