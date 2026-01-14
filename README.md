@@ -38,8 +38,8 @@ I design systems where **Safety** is mandatory, but **Data** is the strategic as
 
 > *"An architect is defined by their built legacy."*
 
-* ✅ **Scale:** Managed end-to-end service operations for **25,000+ devices** with **96% CSAT**.
-* ✅ **Economy:** Built a circular economy business model generating **~100M TL** economic value.
+* ✅ **Scale:** Managed end-to-end technical operations for **225,000 assets** across enterprise and entrepreneurial ventures with **96% CSAT**.
+* ✅ **Economy:** Built a circular economy business model generating **~$6M USD** import substitution value.
 * ✅ **Research:** Published safety-critical systems research at **TOK 2025 Conference** (ITU Rail Systems Lab).
 * ✅ **Legacy:** Trained **100+ technicians**, with 15+ going on to found their own businesses.
 
