@@ -1,15 +1,15 @@
 # Hi there, I'm Muhammet Işık 👋
 
-### **Industrial Solutions Architect | OT/IT Integration Specialist**
+### **Industrial Solutions Engineer & Technical Product Manager | OT/IT Integration & Industrial IoT**
 **Bridging the gap between Operational Technology (OT), Functional Safety, and Enterprise IT.**
 
 ---
 
 ### 🚀 Executive Summary
 
-With a hybrid background spanning **field operations, entrepreneurship, and software development**, I don't just solve complex industrial problems; I transform them into profitable, sustainable business models.
+With **10+ years** of hybrid experience spanning **field operations, entrepreneurship, and software development**, I don't just solve complex industrial problems; I transform them into profitable, sustainable business models.
 
-My engineering philosophy isn't just about connecting devices; it's about establishing the balance between **Safety (SIL)**, **Security (IEC 62443)**, and **Availability**.
+My engineering philosophy isn't just about writing code or deploying PLCs; it's about designing **scalable systems** that transform technical depth into **business value**. Delivering value in positions where decision-making scope is clearly defined, impact is measurable, and technical outputs directly contribute to business objectives is my core professional principle.
 
 ---
 
@@ -38,16 +38,18 @@ I design systems where **Safety** is mandatory, but **Data** is the strategic as
 
 > *"An architect is defined by their built legacy."*
 
-* ✅ **Scale:** Managed end-to-end technical operations for **225,000 assets** across enterprise and entrepreneurial ventures with **96% CSAT**.
+* ✅ **Tender Pipeline:** Unlocked access to **key public tenders averaging ~€80M** through specification engineering strategies.
+* ✅ **Scale:** Managed end-to-end technical operations for **225,000+ assets** across enterprise and entrepreneurial ventures with **96%+ CSAT**.
+* ✅ **Cost Optimization:** Delivered **~50% project cost reduction** through value engineering and architecture optimization.
 * ✅ **Economy:** Built a circular economy business model generating **~$6M USD** import substitution value.
 * ✅ **Research:** Published safety-critical systems research at **TOK 2025 Conference** (ITU Rail Systems Lab).
-* ✅ **Legacy:** Trained **100+ technicians**, with 15+ going on to found their own businesses.
+* ✅ **Legacy:** Trained **100+ technicians**, with **15+ launching their own businesses**.
 
 ---
 
 ### 🔭 Current Focus
 
-At **NET Engineering**, I act as the **Technical Lead** for:
+At **NET Engineering**, I act as the **Industrial Solutions Engineer** for:
 * **HIMA Functional Safety:** Railway signaling and process safety.
 * **Simplinx IIoT:** Edge gateway solutions and cloud integration.
 * **Emerson:** Predictive maintenance and asset health monitoring.
