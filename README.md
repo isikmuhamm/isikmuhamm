@@ -21,12 +21,13 @@ I prototype Edge-to-Cloud architectures, automate industrial workflows with Pyth
 
 ### 📊 Track Record
 
-✅ **~€80M** public tender pipeline unlocked via specification engineering
-✅ **~50%** project cost reduction through Value Engineering & TCO optimization
-✅ **~$6M USD** import substitution via circular supply chain
-✅ Technical service operations across **225,000+** devices with **96% CSAT**
-✅ **12+** production lines commissioned (FAT/SAT)
-✅ Safety-critical systems research **published at TOK 2025** (ITU Rail Systems Lab)
+✅ **~€80M** public tender pipeline unlocked via specification engineering  
+✅ **~50%** project cost reduction through Value Engineering & TCO optimization  
+✅ **~$6M USD** import substitution via circular supply chain  
+✅ Technical service operations across **225,000+** devices with **96% CSAT**  
+✅ **12+** production lines commissioned (FAT/SAT)  
+✅ Safety-critical systems research **published at TOK 2025** (ITU Rail Systems Lab)  
+✅ **100+ technicians** trained; standardized operational quality across the ecosystem  
 
 ### 🔭 Current Focus
 
