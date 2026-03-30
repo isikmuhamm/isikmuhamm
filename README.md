@@ -5,9 +5,9 @@
 
 ### 🚀 Summary
 
-**Solutions Engineer** with **10+ years** bridging technical depth and commercial growth. I design GTM strategies, build partner ecosystems, and deliver live PoC architectures. ITU Control & Automation Engineering background.
+Making a complex system visible through data, reliable through process, and scalable through decision — that's not a method, it's a reflex. From circular supply chain engineering to IIoT edge-to-cloud architecture, I carry the same operational discipline into environments where the cost of error is heavier and the growth potential far greater.
 
-I prototype Edge-to-Cloud architectures, automate enterprise workflows with Python, and build middleware that bridges operational technology systems with IT infrastructure.
+On the technical side: I prototype Edge-to-Cloud architectures, automate enterprise workflows with Python, and build middleware that bridges field controllers with IT infrastructure.
 
 ### 🛠️ Tech Stack
 
