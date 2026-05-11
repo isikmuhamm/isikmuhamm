@@ -1,48 +1,50 @@
 # Hi there, I'm Muhammet Işık 👋
 
-### **Solutions Engineer | Value Engineering • GTM Strategy • System Integration • OT/IT Convergence • IIoT Ecosystems**
-**Bridging OT and IT to turn technical decisions into commercial outcomes through IIoT architectures and partner ecosystems.**
+### **Systems and Solutions Engineer | Technical Delivery • Systems Integration • Solution Design**
+**I build practical technical structures that connect requirements, workflows, data, and people.**
 
 ### 🚀 Summary
 
-Making a complex system visible through data, reliable through process, and scalable through decision — that's not a method, it's a reflex. From circular supply chain engineering to IIoT edge-to-cloud architecture, I carry the same operational discipline into environments where the cost of error is heavier and the growth potential far greater.
+My work sits between technical systems, customer needs, and operational reality. I have worked across IT services, electronics repair, service operations, software-enabled workflows, industrial systems, and customer-facing solution work. The common thread is systems discipline: make the problem visible, connect the interfaces, document the path, and leave something usable behind.
 
-On the technical side: I prototype Edge-to-Cloud architectures, automate enterprise workflows with Python, and build middleware that bridges field controllers with IT infrastructure.
+This GitHub profile is the lab side of that work: middleware experiments, MES-style traceability applications, Python decision tools, technical content pipelines, simulation projects, and lightweight web architectures.
 
 ### 🛠️ Tech Stack
 
 | Domain | Technologies & Standards |
 | :--- | :--- |
-| **Functional Safety** | `HIMA` `IEC 61508` `CENELEC (EN 5012X)` `Safety Integrity Levels` |
-| **Industrial IoT** | `Simplinx` `Node-RED` `MQTT` `OPC UA` `Modbus` `Edge Computing` |
-| **Automation & Control** | `ABB` `Siemens` `Mitsubishi` `Festo` `HMI/SCADA` |
-| **Software & Data** | `Python` `C#/.NET` `SQL` `Docker` `Linux` `ETL Pipelines` `REST API` |
-| **Embedded Systems** | `Embedded C` `ANSYS SCADE` `Model-Based Design` |
-| **Cloud & Infrastructure** | `AWS` `GCP` `Docker` `Linux System Administration` |
+| **Systems & Integration** | `Requirements` `Interface Management` `Technical Documentation` `FAT/SAT Support` `Modbus` `OPC UA` `MQTT` |
+| **Industrial & Safety Context** | `HIMA SILworX` `IEC 61508` `CENELEC EN 50126/50128/50129` `IEC 62443 Concepts` |
+| **Backend & Data** | `Python` `Django` `Flask` `FastAPI` `C#/.NET` `SQL` `REST API` `ETL` |
+| **Service Operations & Traceability** | `Lightweight ERP` `MES-Style Workflows` `RBAC` `Inventory Serialization` `RCA` |
+| **Infrastructure & Tooling** | `Linux` `Docker` `Git` `Jira` `Node-RED` `Grafana` `InfluxDB` |
+| **AI & Simulation** | `Machine Learning` `Reinforcement Learning` `NLP` `RAG Concepts` |
 
-### 📊 Track Record
-
-✅ **~€5M** new pipeline unlocked within **~€80M** tenders via specification engineering
-✅ **~50%** project cost reduction through Value Engineering & TCO optimization
-✅ **~$6M USD** import substitution via circular supply chain
-✅ Technical service operations across **225,000+** devices with **96% CSAT**
-✅ **10,000+ member** community with **Zero CAC** — organic growth engine
-✅ Safety-critical systems research published at **TOK 2025** and **Railway Engineering Journal**
-
-### 🔭 Current Focus
-
-At **NET Mühendislik**, I lead technical solution architecture and ecosystem development for:
-- **Functional Safety:** Safety-critical system design and compliance (IEC 61508)
-- **IIoT Integration:** Edge-to-Cloud gateway solutions & real-time data architectures
-- **Partner Ecosystem:** Channel & integrator enablement programs
-
-### 🧪 Projects
+### 🧪 Open-Source Projects
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **Market Intelligence Bot** | Python · ETL · Selenium | Automated procurement monitoring; saves 1 hour/day |
-| **IIoT PoC Demos** | Simplinx · Node-RED · MQTT | Edge-to-Cloud proof-of-concept architectures |
-| **Field Controller-MES Middleware** | C#/.NET · Modbus · SQL | Custom middleware bridging field controllers to MES/ERP systems |
+| [**secure-industrial-messaging-platform**](https://github.com/isikmuhamm/secure-industrial-messaging-platform) | `Python` `FastAPI` `React` `PostgreSQL` | Real-time messaging architecture concept for technical teams, with WebSocket channels, JWT auth, and persistent event logging. |
+| [**ansys-scade-modbus-integration-middleware**](https://github.com/isikmuhamm/ansys-scade-modbus-integration-middleware) | `C` `Modbus TCP/IP` `SCADE` | C-based middleware work connecting an ANSYS SCADE Display CTC interface with a HIMA SILworX interlocking lab setup over Modbus. |
+| [**aerospace-manufacturing-execution-system**](https://github.com/isikmuhamm/aerospace-manufacturing-execution-system) | `Python` `Django` `Docker` `PostgreSQL` | MES-style traceability application for a manufacturing scenario, including RBAC, compatibility rules, FIFO allocation, UUID serialization, and audit trails. |
+| [**algorithmic-market-intelligence-rpa**](https://github.com/isikmuhamm/algorithmic-market-intelligence-rpa) | `Python` `Selenium` `RPA` | Marketplace monitoring and inventory decision-support tooling for pricing, turnover analysis, and slow-moving stock workflows. |
+| [**automated-content-aggregator**](https://github.com/isikmuhamm/automated-content-aggregator) | `Python` `NLP` `Poppler` | ETL pipeline reading newsletters and PDF attachments, extracting content, and structuring it for publishing workflows. |
+| [**unstructured-data-extraction-engine**](https://github.com/isikmuhamm/unstructured-data-extraction-engine) | `Python` `NLP` `RAG` | Ingestion pipeline for extracting text from document formats and preparing structured context for LLM/RAG experiments. |
+| [**neural-adaptive-control-simulation**](https://github.com/isikmuhamm/neural-adaptive-control-simulation) | `Python` `TensorFlow` `Reinforcement Learning` | Adaptive control simulation for an inverted pendulum, combining learning models with control theory concepts. |
+| [**zero-dependency-static-cms**](https://github.com/isikmuhamm/zero-dependency-static-cms) | `JavaScript` `Static CMS` | Client-side CMS architecture pattern separating JSON data from presentation without a heavy build chain. |
+
+### 🔭 Current Focus
+
+- **Systems Integration:** Requirements, interfaces, middleware, validation support, and handover discipline.
+- **Solution Design:** Turning technical ambiguity into clear, practical, customer-facing solution structures.
+- **Traceability & Service Operations:** Lightweight ERP/MES-style workflows, serialized inventory, service lifecycle visibility, and RCA.
+- **Industrial Context:** Safety-critical railway lab integration, PLC/MES data flows, and IEC 61508 / IEC 62443 awareness.
+- **AI-Assisted Engineering:** Practical experiments with structured context, content extraction, and simulation workflows.
+
+### 📚 Publications
+
+- Demir, D., Kolotoğlu, İ.C., **Işık, M.**, et al. (2025). *PLC Connectivity via MODBUS Protocol Using C Programming in SCADE Environment and Implementation of a Basic Interlocking System.* **TOK 2025.**
+- Kolotoğlu, İ.C., **Işık, M.**, et al. (2025). *Integration of Railway Systems with Wind Energy for the Tekirdağ-Çanakkale Region.* **Demiryolu Mühendisliği Dergisi.**
 
 ### 📫 Connect
 
@@ -50,10 +52,14 @@ At **NET Mühendislik**, I lead technical solution architecture and ecosystem de
   <a href="https://linkedin.com/in/muisik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:contact@muisik.com">
+  <a href="mailto:isikmuhamm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.muisik.com">
     <img src="https://img.shields.io/badge/Portfolio-www.muisik.com-black?style=for-the-badge" alt="Website">
   </a>
 </p>
+
+---
+
+> **Own. Build. Deliver.**
