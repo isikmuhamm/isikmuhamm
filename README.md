@@ -41,11 +41,6 @@ This GitHub profile is the lab side of that work: middleware experiments, MES-st
 - **Industrial Context:** Safety-critical railway lab integration, PLC/MES data flows, and IEC 61508 / IEC 62443 awareness.
 - **AI-Assisted Engineering:** Practical experiments with structured context, content extraction, and simulation workflows.
 
-### 📚 Publications
-
-- Demir, D., Kolotoğlu, İ.C., **Işık, M.**, et al. (2025). *PLC Connectivity via MODBUS Protocol Using C Programming in SCADE Environment and Implementation of a Basic Interlocking System.* **TOK 2025.**
-- Kolotoğlu, İ.C., **Işık, M.**, et al. (2025). *Integration of Railway Systems with Wind Energy for the Tekirdağ-Çanakkale Region.* **Demiryolu Mühendisliği Dergisi.**
-
 ### 📫 Connect
 
 <p align="left">
