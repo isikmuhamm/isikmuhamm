@@ -1,45 +1,50 @@
 # Hi there, I'm Muhammet Işık 👋
 
-### **Systems and Solutions Engineer | Technical Delivery • Systems Integration • Solution Design**
-**I build practical technical structures that connect requirements, workflows, data, and people.**
+### **Product and Application Engineer | Industrial Software • Sensors & Measurement • Systems Integration**
+
+**I connect industrial products and operations with software, data and decision systems.**
 
 ### 🚀 Summary
 
-My work sits between technical systems, customer needs, and operational reality. I have worked across IT services, electronics repair, service operations, software-enabled workflows, industrial systems, and customer-facing solution work. The common thread is systems discipline: make the problem visible, connect the interfaces, document the path, and leave something usable behind.
+My work sits where industrial products meet enterprise software. One half is product and application engineering: choosing and applying the right product for real operating conditions, proving what a measurement system actually measures, and resolving machine integration at protocol level. The other half is service and business systems: carrying operations into traceable structures through requirements, data models, ERP configuration, go-live and handover. Ten years across industrial products, production, quality, service and software sits underneath both.
 
-This GitHub profile is the lab side of that work: middleware experiments, MES-style traceability applications, Python decision tools, technical content pipelines, simulation projects, and lightweight web architectures.
+This profile is the lab side of that work: tender intelligence tooling, agent governance harnesses, MES-style traceability, safety-lab middleware, and control simulations. Where AI assists development, that is stated openly; architecture, data models and test design are owned end to end.
 
 ### 🛠️ Tech Stack
 
 | Domain | Technologies & Standards |
 | :--- | :--- |
-| **Systems & Integration** | `Requirements` `Interface Management` `Technical Documentation` `FAT/SAT Support` `Modbus` `OPC UA` `MQTT` |
-| **Industrial & Safety Context** | `HIMA SILworX` `IEC 61508` `CENELEC EN 50126/50128/50129` `IEC 62443 Concepts` |
-| **Backend & Data** | `Python` `Django` `Flask` `FastAPI` `C#/.NET` `SQL` `REST API` `ETL` |
-| **Service Operations & Traceability** | `Lightweight ERP` `MES-Style Workflows` `RBAC` `Inventory Serialization` `RCA` |
+| **Product & Application** | `Measurement Verification` `Repeatability Protocols` `Failure Characterisation` `Specification Integrity` `Root Cause Analysis` |
+| **Systems & Integration** | `Requirements` `Interface Management` `Technical Documentation` `FAT/SAT Support` `Modbus` `CANopen/EDS` `OPC UA` `MQTT` |
+| **Industrial & Safety Context** | `HIMA SILworX` `IEC 61508` `CENELEC EN 50126/50128/50129` `IEC 62443 Concepts` `Siemens TIA Portal` |
+| **Backend & Data** | `Python` `Django` `Flask` `FastAPI` `C#/.NET` `C` `SQL` `PostgreSQL` `REST API` |
+| **Service & Business Systems** | `ERP Configuration` `Lightweight ERP` `MES-Style Workflows` `Serial/Batch Traceability` `RBAC` `SLA & Escalation Workflows` |
 | **Infrastructure & Tooling** | `Linux` `Docker` `Git` `Jira` `Node-RED` `Grafana` `InfluxDB` |
-| **AI & Simulation** | `Machine Learning` `Reinforcement Learning` `NLP` `RAG Concepts` |
+| **AI & Simulation** | `LLM API Integration` `Prompt & Context Engineering` `RAG Concepts` `Reinforcement Learning` |
 
 ### 🧪 Open-Source Projects
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| [**secure-industrial-messaging-platform**](https://github.com/isikmuhamm/secure-industrial-messaging-platform) | `Python` `FastAPI` `React` `PostgreSQL` | Real-time messaging architecture concept for technical teams, with WebSocket channels, JWT auth, and persistent event logging. |
-| [**ansys-scade-modbus-integration-middleware**](https://github.com/isikmuhamm/ansys-scade-modbus-integration-middleware) | `C` `Modbus TCP/IP` `SCADE` | C-based middleware work connecting an ANSYS SCADE Display CTC interface with a HIMA SILworX interlocking lab setup over Modbus. |
-| [**aerospace-manufacturing-execution-system**](https://github.com/isikmuhamm/aerospace-manufacturing-execution-system) | `Python` `Django` `Docker` `PostgreSQL` | MES-style traceability application for a manufacturing scenario, including RBAC, compatibility rules, FIFO allocation, UUID serialization, and audit trails. |
-| [**algorithmic-market-intelligence-rpa**](https://github.com/isikmuhamm/algorithmic-market-intelligence-rpa) | `Python` `Selenium` `RPA` | Marketplace monitoring and inventory decision-support tooling for pricing, turnover analysis, and slow-moving stock workflows. |
-| [**automated-content-aggregator**](https://github.com/isikmuhamm/automated-content-aggregator) | `Python` `NLP` `Poppler` | ETL pipeline reading newsletters and PDF attachments, extracting content, and structuring it for publishing workflows. |
-| [**unstructured-data-extraction-engine**](https://github.com/isikmuhamm/unstructured-data-extraction-engine) | `Python` `NLP` `RAG` | Ingestion pipeline for extracting text from document formats and preparing structured context for LLM/RAG experiments. |
-| [**neural-adaptive-control-simulation**](https://github.com/isikmuhamm/neural-adaptive-control-simulation) | `Python` `TensorFlow` `Reinforcement Learning` | Adaptive control simulation for an inverted pendulum, combining learning models with control theory concepts. |
-| [**zero-dependency-static-cms**](https://github.com/isikmuhamm/zero-dependency-static-cms) | `JavaScript` `Static CMS` | Client-side CMS architecture pattern separating JSON data from presentation without a heavy build chain. |
+| Project | Status | Stack | Description |
+| :--- | :--- | :--- | :--- |
+| [**tender-tracker**](https://github.com/muisik/tender-tracker) | Operational tool | `Python` `FastAPI` `LLM-optional` | Local-first market and tender intelligence: deterministic sector rules before optional LLM filtering; SMTP/Telegram alerts, automated tests, GitHub Actions releases. |
+| [**minimum-governed-harness**](https://github.com/muisik/minimum-governed-harness) (Context Rail) | Active | `Repo-local validators` `CI` | Governed repository memory and delivery harness for coding agents: bounded knowledge sources, task-linked traceability, root-cause-first defect handling, versioned releases. |
+| [**ansys-scade-modbus-integration-middleware**](https://github.com/muisik/ansys-scade-modbus-integration-middleware) | PoC, lab-validated, not SIL-certified | `C` `Modbus TCP/IP` `SCADE` | C-based middleware connecting an ANSYS SCADE Display CTC interface with a HIMA SILworX interlocking lab setup; presented at TOK 2025. |
+| [**aerospace-manufacturing-execution-system**](https://github.com/muisik/aerospace-manufacturing-execution-system) | PoC, pilot-ready model | `Python` `Django` `Docker` `PostgreSQL` | MES-style traceability application for a manufacturing scenario: RBAC, compatibility rules, FIFO allocation, UUID serialization, audit trails. |
+| [**unstructured-data-extraction-engine**](https://github.com/muisik/unstructured-data-extraction-engine) | Operational tool | `Python` `NLP` `RAG` | ETL utility converting 20+ document, spreadsheet, configuration, log and PDF formats into machine-actionable text for analytics and migration workflows. |
+| [**neural-adaptive-control-simulation**](https://github.com/muisik/neural-adaptive-control-simulation) | Research | `Python` `TensorFlow` `RL` | Adaptive control simulation for an inverted pendulum, combining learning models with control theory concepts. |
+
+> **Voice Spec Agent** — AI-assisted requirements elicitation and engineering handoff system: deterministic orchestrator, multi-provider LLM gateway, Git-backed requirement history, and a deterministic test suite. _Private repository; code available on request._
+
+<!-- Vitrin dışına alınan repo'lar (pinned edilmez, silinmez): secure-industrial-messaging-platform (concept, not production-certified), automated-content-aggregator, algorithmic-market-intelligence-rpa, zero-dependency-static-cms -->
+
+<!-- unstructured-data-extraction-engine, Track 2 CV'sinde Selected Projects olarak geçtiği için vitrine alındı. -->
 
 ### 🔭 Current Focus
 
-- **Systems Integration:** Requirements, interfaces, middleware, validation support, and handover discipline.
-- **Solution Design:** Turning technical ambiguity into clear, practical, customer-facing solution structures.
-- **Traceability & Service Operations:** Lightweight ERP/MES-style workflows, serialized inventory, service lifecycle visibility, and RCA.
-- **Industrial Context:** Safety-critical railway lab integration, PLC/MES data flows, and IEC 61508 / IEC 62443 awareness.
-- **AI-Assisted Engineering:** Practical experiments with structured context, content extraction, and simulation workflows.
+- **Product & Application Engineering:** Product and configuration selection, measurement verification, failure characterisation, and protocol-level machine integration.
+- **Service & Business Systems:** Requirements, data models, ERP configuration, serial traceability, go-live and adoption with handover discipline.
+- **Industrial Data & Integration:** PLC/OT data flows, edge-versus-cloud placement trade-offs, and operational reporting.
+- **AI-Enabled Operational Workflows:** Requirements automation, LLM-assisted decision support, and human-in-the-loop delivery systems.
 
 ### 📫 Connect
 
@@ -47,7 +52,7 @@ This GitHub profile is the lab side of that work: middleware experiments, MES-st
   <a href="https://linkedin.com/in/muisik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:isikmuhamm@gmail.com">
+  <a href="mailto:contact@muisik.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.muisik.com">
