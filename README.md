@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammet Işık 👋
 
-### **Product and Application Engineer | Industrial Software • Sensors & Measurement • Systems Integration**
+### **Product and Application Engineer | Industrial Software • Systems Integration • Operational Data & Traceability**
 
 **I connect industrial products and operations with software, data and decision systems.**
 
